@@ -1,0 +1,100 @@
+h1 {
+    
+    font-size: 450%;
+    font-family: monospace;
+    padding-bottom: 20px;
+    text-decoration:;
+    color: black;
+ 
+    
+}
+
+.Top-Container {
+    position: relative;
+  
+}
+
+.header-link {
+    font-size: 1rem;
+    font-family:monospace;
+    padding: 20px 0px;
+    margin: 40px;
+    text-decoration: none;
+    color: #000000;
+}
+
+div {
+    text-align: center;
+    padding: 20px 20px 20px;
+    margin: 50px;
+    
+
+}
+a {
+     
+    margin: 10px 20px;
+  text-decoration: underline;
+  color: black;
+}
+
+a:hover {
+    color:darkslategrey;
+}
+
+.header-link:hover {
+    color: rgb(26, 200, 206);
+    text-decoration: underline;
+}
+
+h1:hover {
+    color:darkslategrey;
+    
+}
+
+.Middle-container {
+    margin: auto;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+ #gallery {
+    line-height:0;
+    -webkit-column-count:0; 
+    -webkit-column-gap:5px; 
+    -moz-column-count:5;
+    -moz-column-gap:5px;
+    column-count:3;
+    column-gap:5px;
+    
+    
+    
+    
+ }
+
+ #gallery img {
+    width: 100% !important;
+    height: auto !important;
+    margin-bottom:5px; 
+    
+ }
+ 
+ h2 {
+    padding-top: 50px;
+    font-size: 100px;
+    font-family:monospace;
+
+ }
+
+ h3 {
+    text-decoration: underline;
+    font-family: monospace;
+    font-size: 30px;
+ }
+ 
+ .aboutmetext {
+    text-align: center;
+    width: 500px;
+    margin: auto;
+ }
